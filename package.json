@@ -1,0 +1,12 @@
+{
+  "name": "travel-site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Takashiidobe/travel-site.git",
+  "author": "Takashi Idobe <idobetakashi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "normalize.css": "^8.0.0"
+  }
+}
